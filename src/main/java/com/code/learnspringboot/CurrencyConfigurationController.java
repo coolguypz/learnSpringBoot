@@ -19,3 +19,11 @@ public class CurrencyConfigurationController {
         return configuration;
     }
 }
+
+
+// Monitoring Application Using Spring Boot Actuator
+// Provide a number of endpoints:
+//  beans - Complete list of Spring beans in your app
+//  health - Application health information
+//  metrics - Application metrics
+//  mappings - Details around Request Mappings
